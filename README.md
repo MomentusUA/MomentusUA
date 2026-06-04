@@ -1,5 +1,9 @@
 # Hi, I'm Artem Sekarev 👋
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2188FF&width=435&lines=Linux+SysAdmin;DevOps+Enthusiast;Self-Hosting+Practitioner" alt="Typing SVG" />
+</p>
+
 I am an aspiring **Linux Systems Administrator** and **DevOps Engineer**. I focus on system hardening, infrastructure automation, network configuration, and building secure, self-hosted environments.
 
 - 📚 **Learning and practicing:** Infrastructure as Code (IaC), containerization, and advanced shell scripting
