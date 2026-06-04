@@ -32,6 +32,13 @@ I am an experienced **Project Manager** and **Scrum Master** with a solid, hands
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-4078C0?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor%20AI-1E2022?style=for-the-badge&logo=cursor&logoColor=white)
 
+#### ☄️ Autonomous Agents & CLI Toolkits
+![GeminiCLI](https://img.shields.io/badge/GeminiCLI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-1E1E2E?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2563EB?style=for-the-badge)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-4F46E5?style=for-the-badge)
+
 ### 💻 Programming & Scripting Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
