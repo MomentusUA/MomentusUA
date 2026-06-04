@@ -46,10 +46,3 @@ I am a Linux Systems Administrator and DevOps Engineer. I focus on system harden
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ---
-
-## 📊 Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MomentusUA&show_icons=true&theme=terminal&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=MomentusUA&theme=terminal&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
-</p>
