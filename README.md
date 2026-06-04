@@ -40,7 +40,7 @@ I am an aspiring **Linux Systems Administrator** and **DevOps Engineer**. I focu
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=terminal&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MomentusUA&show_icons=true&theme=terminal&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
