@@ -6,7 +6,6 @@
 
 I am a Linux Systems Administrator and DevOps Engineer. I focus on system hardening, infrastructure automation, network configuration, and building secure, self-hosted environments.
 
-- 🔭 **Current Project:** Building and documenting a secure self-hosted infrastructure (Pet Project #1) with multi-node networking.
 - ⚙️ **Key Interests:** Automation (IaC), high-availability web servers, and container orchestration.
 - ⚡ **Fun fact:** I live in the terminal and manage my configs with GNU Stow and Neovim.
 
