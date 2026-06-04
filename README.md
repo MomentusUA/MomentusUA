@@ -26,6 +26,12 @@ I am an experienced **Project Manager** and **Scrum Master** with a solid, hands
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 🤖 Agentic Engineering & AI-Assisted Dev
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D1A153?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20/%20ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-4078C0?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-1E2022?style=for-the-badge&logo=cursor&logoColor=white)
+
 ### 💻 Programming & Scripting Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -73,7 +79,6 @@ I am an experienced **Project Manager** and **Scrum Master** with a solid, hands
 ---
 
 ## 📫 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Sekarev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemsekarev/)
 
 ---
