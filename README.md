@@ -1,7 +1,7 @@
 # Hi, I'm Artem Sekarev 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2188FF&width=650&lines=Project+Manager+%7C+Scrum+Master;Technical+PM+%7C+DevOps+Practitioner;Linux+Systems+Administrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2188FF&width=650&lines=Technical+PM+%7C+DevOps+Practitioner;Linux+Systems+Administrator" alt="Typing SVG" />
 </p>
 
 I am an experienced **Project Manager** and **Scrum Master** with a solid, hands-on technical foundation in **Linux Systems Administration** and **DevOps** practices. I bridge the gap between business, agile processes, and infrastructure, helping teams deliver stable and highly automated software solutions.
